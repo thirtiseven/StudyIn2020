@@ -1,0 +1,26 @@
+<annotation>
+	<folder>61</folder>
+	<filename>09_54_36_593.png</filename>
+	<path>/Users/lihaoyang/Code/StudyIn2020/courses/机器学习/X-rar annotation/61/09_54_36_593.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>732</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic Bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>140</ymin>
+			<xmax>239</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>61</folder>
+	<filename>09_54_29_921.png</filename>
+	<path>/Users/lihaoyang/Code/StudyIn2020/courses/机器学习/X-rar annotation/61/09_54_29_921.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>410</width>
+		<height>732</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vacuum Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>321</ymin>
+			<xmax>219</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+</annotation>
